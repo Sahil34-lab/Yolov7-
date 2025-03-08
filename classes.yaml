@@ -1,0 +1,5 @@
+train: "C:\Users\sagar\OneDrive\Desktop\boox\images\train"
+val: "C:\Users\sagar\OneDrive\Desktop\boox\images\val"
+
+nc: 6
+names: [ "Dumper", "Car", "Truck", "Hmv", "Monitou","Dozer" ] 
